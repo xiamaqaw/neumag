@@ -1,0 +1,2 @@
+# neumag
+OpenAIDiscordBot
